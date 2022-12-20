@@ -2,8 +2,8 @@
 Repository for the Data 606 Project. 
 
 Authors:
++ Daniel Thang 
 + Reed Balentine
-+ Daniel Thang
 + Khiran Kumar
 ## Description
 This is a repository that stores our work on the Natural Language Prediction model
@@ -18,3 +18,4 @@ modelling attempts and the BERT attempt.
 the final presentaion was split into three .zip files to respect GitHubs file
 size limit.
 - The Website folder contains the data for the website as a .py file.
+- The blog post is in the main directory
