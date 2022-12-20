@@ -18,4 +18,5 @@ modelling attempts and the BERT attempt.
 the final presentaion was split into three .zip files to respect GitHubs file
 size limit.
 - The Website folder contains the data for the website as a .py file.
-- The blog post is in the main directory
+- The written paper is in the main directory
+- Link to blog post: https://medium.com/@khiranc1/npr-speaker-identification-with-text-data-9cc34a92f653
